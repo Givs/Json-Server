@@ -1,0 +1,59 @@
+{
+  "blogposts": [
+    {
+      "title": "Announcing npm7 👍",
+      "content": "It's been a very long and crazy ride but I'm happy to share that the project I've been working so hard since I joined the npm team more than an year ago is finally out! npm7 is the new major version of the npm cli 😍\n\nTLDR; npm install -g npm@7  What's new?\nFirst let's highlight the major additions:\n\nworkspaces! finally the top-requested feature from our userbase makes its way into a stable release line 🎉\nauto-installing peer-dependencies again 📦",
+      "id": 3
+    },
+    {
+      "title": "How to Become a Pro Front End Developer",
+      "content": "Generally, a front-end web developer executes web designs through coding languages like HTML, CSS, and JavaScript, which run on the Open Web Platform or act as compilation input for non-web platform environments (i.e., React Native). In a way, a front-end web developer is responsible for implementing visual elements that users see and interact within a web application.\n\nBut that's not the scene anymore. Nowadays front-end developers are not limited to specific. You can see their work everywhere—in the navigation, layouts, even the way that a site looks different from your phone (thanks to mobile-first or responsive design).",
+      "id": 4
+    },
+    {
+      "title": "What is web hosting?",
+      "content": "",
+      "id": 5
+    },
+    {
+      "title": "Learn Git from GitHub",
+      "content": "",
+      "id": 6
+    },
+    {
+      "title": "About Next Js",
+      "content": "",
+      "id": 8
+    },
+    {
+      "title": "Desktop Apps",
+      "content": "",
+      "id": 9
+    },
+    {
+      "title": "Electron ",
+      "content": "",
+      "id": 10
+    },
+    {
+      "title": "Assembly ",
+      "content": "",
+      "id": 11
+    },
+    {
+      "title": "Advanced Javascript",
+      "content": "",
+      "id": 12
+    },
+    {
+      "title": "React for Beginners",
+      "content": "",
+      "id": 13
+    },
+    {
+      "title": "New blog post 01",
+      "content": "Some Content ",
+      "id": 14
+    }
+  ]
+}

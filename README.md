@@ -19,4 +19,4 @@ This jsonserver is used to deal with the posts on the Blog Post App, you should 
 
 # 🚩Information 
 Remember that using ngrok your URL is available
-just for 8 hours. After that you need to restart tha command **npm run tunnel**, and change the URL on **api/jsonServer** into Blog Post directory.
+just for 8 hours. After that, you need to restart that command **npm run tunnel**, and change the URL on **api/jsonServer** into Blog Post directory.

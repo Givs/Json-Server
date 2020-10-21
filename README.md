@@ -1,5 +1,5 @@
 # 📖About
-This jsonserver is used to deal with the posts on the Blog Post App, you might had already clone this [repo](https://github.com/Givs/Blog-App.git).
+This jsonserver is used to deal with the posts on the Blog Post App, you should clone this [repo](https://github.com/Givs/Blog-App.git).
 
 ---
 
